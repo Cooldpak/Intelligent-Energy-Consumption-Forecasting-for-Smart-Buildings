@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Data and models (checkpoints can be large)
+data/*.joblib
+data/*.pth
+data/*.csv
+test_write.txt
+test.txt
